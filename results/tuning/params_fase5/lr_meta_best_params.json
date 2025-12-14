@@ -1,0 +1,5 @@
+{
+    "lr_penalty": "l2",
+    "lr_solver": "lbfgs",
+    "lr_C": 0.09946667091710057
+}

@@ -1,0 +1,16 @@
+Modelo: LightGBM
+PR-AUC: 0.4681
+Parámetros utilizados:
+  n_estimators: 1850
+  learning_rate: 0.019670117069306953
+  num_leaves: 20
+  min_child_samples: 24
+  reg_alpha: 0.006353187509196037
+  reg_lambda: 0.04403392556093363
+  feature_fraction: 0.9759638001537078
+  boosting_type: dart
+  min_gain_to_split: 0.1518131467380639
+  random_state: 42
+  eval_metric: average-precision
+  categorical_feature: ['tipo_usuario', 'canal']
+  objective: binary

@@ -1,0 +1,12 @@
+Modelo: CatBoost
+PR-AUC: 0.4677
+Parámetros utilizados:
+  iterations: 1200
+  learning_rate: 0.010043418192921075
+  depth: 8
+  l2_leaf_reg: 1.4123243282572246
+  subsample: 0.6113633312351796
+  min_data_in_leaf: 25
+  eval_metric: PRAUC
+  random_state: 42
+  cat_features: ['tipo_usuario', 'canal']

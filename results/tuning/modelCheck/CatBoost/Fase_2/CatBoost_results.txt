@@ -1,0 +1,13 @@
+Modelo: CatBoost
+PR-AUC: 0.4730
+Parámetros utilizados:
+  iterations: 850
+  learning_rate: 0.02542971271126076
+  depth: 9
+  l2_leaf_reg: 4.4036714336001195
+  subsample: 0.7158093626479908
+  random_strength: 0.863135324261114
+  grow_policy: SymmetricTree
+  random_state: 42
+  eval_metric: PRAUC
+  cat_features: ['tipo_usuario', 'canal']

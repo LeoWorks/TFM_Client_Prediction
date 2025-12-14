@@ -1,0 +1,10 @@
+{
+    "lgbm_n_estimators": 1800,
+    "lgbm_learning_rate": 0.018067869990858458,
+    "lgbm_num_leaves": 26,
+    "lgbm_min_child_samples": 30,
+    "lgbm_reg_alpha": 0.005330854069554935,
+    "lgbm_reg_lambda": 0.09987730382558391,
+    "lgbm_feature_fraction": 0.9170603878199113,
+    "lgbm_min_gain_to_split": 0.06584088996754021
+}
